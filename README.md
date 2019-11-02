@@ -26,4 +26,10 @@ high seria不推荐，未调好。mojave较稳，但我选择最新catalina。
 删除了other下FakePCIID\_Intel\_HDMI\_Audio.kext，\\\_
 修改Devices下的inject=Detect,勾选左侧USB inject
 
-ps:在10.14时我只是将更新AppleAlc和Lilu并复制CodecCommander到SLE下便无耳机插拔问题包括开机时。
+ps:在10.14时我只是将更新AppleAlc和Lilu并复制CodecCommander到SLE下便可。无耳机插拔问题包括开机时。
+另：尝试修复了iMessage和FaceTime。按视频操作https://www.youtube.com/watch?v=Qp4rMzC4O-w。
+操作完可以使用我同学账号登陆，测试是正常的，可以收发，也不会发生闪退。但自己账号就不行！！！
+账号确实存在问题，即便国内客服说正常（台湾客服小姐姐告知）。
+注意自己账号一定要是在手机或者平板上设置好可以正常使用再去尝试登陆hackintosh,否则就是浪费时间。
+当设置不当，hackintosh上的iMessage或者FaceTime报错了需要按视频教程重新搞，不然原先本可以登陆的账号也会认证失败。
+其实这服务没什么用，没刚需最好放弃，费时费力最后还是无法修复。
