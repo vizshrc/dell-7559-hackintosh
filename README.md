@@ -1,5 +1,5 @@
 # dell-7559-hackintosh
-I5版本
+I5版本（Catalina 10.15.4）
 
 更新说明：
 某日第一次上传：
